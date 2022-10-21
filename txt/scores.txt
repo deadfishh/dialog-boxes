@@ -1,0 +1,8 @@
+3, jerry, countries
+4, rachel, states
+4, mr. constanza, practice
+6, puchovich, practice
+7, kramer, practice
+9, elaine, practice
+10, the black hood, practice
+14, george, practice
