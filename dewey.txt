@@ -1,0 +1,96 @@
+generalities, 000
+computer scienes, 000
+bibliographies, 010
+information sciences, 020
+encyclopedias, 030
+magazines, 050
+museums, 060
+journalism and publishing, 070
+quotations, 080
+manuscripts and rare books, 090
+philosophy and psychology, 100
+philosophy, 100
+metaphysics, 110
+epistemology, 120
+occultism, 130
+philopsophical schools of thought, 140
+psychology, 150
+logic, 160
+ethics, 170
+ancient philosophy, 180
+modern western philosophy, 190
+relgion, 200
+social sciences, 300
+sociology and anthropology, 300
+sttistics, 310
+polotical science, 320
+economics, 330
+law, 340
+public administrion and military science, 350
+social problems and services, 360
+education, 370
+commerce communications and transport, 380
+customs etiquette and folklore, 390
+language, 400
+linguistics, 410
+english and old english, 420
+german, 430
+french, 440
+italian and romanian, 450
+spanish and portugese, 460
+latin and italic, 470
+classic and modern greek, 480
+other languages, 490
+science and math, 500
+science, 500
+math, 510
+astronomy, 520
+physics, 530
+chemistry, 540
+earth sciences, 550
+fossils and prehistoric life, 560
+biology, 570
+botany, 580
+animals, 590
+technology, 600
+medicine and health, 610
+engineering, 620
+agriculture, 630
+home and family management, 640
+management and public relations, 650
+chemical engineering, 660
+manufacturing, 670
+specific manufacturing, 680
+building and construction, 690
+the arts, 700
+landscaping, 710
+architechture, 720
+sculpting ceramics and metalwork, 730
+drawing, 740
+painting, 750
+graphics arts, 760
+photography and computer art, 770
+music, 780
+sports games and entertainment, 790
+literature, 800
+rhetoric and criticism, 800
+american literature, 810
+english and old english literature, 820
+german literature, 830
+french literature, 840
+italian and romanian literature, 850
+spanish and portugese literature, 860
+latin and italic literature, 870
+classical and modern greek literature, 880
+other literature, 890
+georgraphy and history, 900
+history, 900
+geography and travel, 910
+biography aand genealogy, 920
+history of the ancient world, 930
+history of europe, 940
+history of asia, 950
+history of africa, 960
+history of north america, 970
+history of south america, 980
+history of other areas, 990
