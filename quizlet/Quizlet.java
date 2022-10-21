@@ -6,7 +6,7 @@ import java.io.*;
 public class Quizlet
 {
     HashMap<String, String> items = new HashMap<String, String>();
-    String[] options = {"dewey decimal system", "states and their capitals", "phone numbers"};
+    String[] options = {"dewey decimal system", "states and their capitals"};
     String word = "";
     String file = "";
     double right = 0;
